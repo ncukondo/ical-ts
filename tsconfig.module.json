@@ -1,0 +1,10 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "target": "es2018",
+    "sourceMap": true,
+    "declaration": true,
+    "outDir": "built",
+    "downlevelIteration": false,
+  }
+}
